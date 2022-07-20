@@ -1,0 +1,9 @@
+@media(max-width:575px){
+    .nav-item {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline;
+    }
+}
